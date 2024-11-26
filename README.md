@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-
-**noobrysal/noobrysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Romeo Bryan T. Salcedo IV
 
 - 🔭 I’m currently working on UDA - Unified Dashboard Analytics
 - 🌱 I’m currently learning React and Django
